@@ -6,7 +6,7 @@ import math
 # Flow Properties
 R = 0.2
 Vinf = 5.0
-LiftSpan = 50
+LiftSpan = 0
 Rho = 1.18
 Zero = 1*10^-6
 pi = np.pi
